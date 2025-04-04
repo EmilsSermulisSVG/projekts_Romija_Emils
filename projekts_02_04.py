@@ -20,13 +20,15 @@ class Tirgotajs:
             pass
         else:
             print("Nepareizais adresāts!")
-
+    
+    def pienemt_pasutijumu(self):
+        if  
+        
 
 
 maiznieks = Tirgotajs("Maiznieks")
 
-
-
+maiznieks = Tirgotajs("Maiznieks")
 
 
 
